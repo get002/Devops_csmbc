@@ -14,3 +14,6 @@
 >> iv) Investigate different DevOps Software development models.<br/>
 >> v) Assess various Devops practices.<br/>
 >> vi) Collaborate and adopt Devops in real-time projects.<br/>
+![66bdac6123c06ad51043a3a49e84267f-39](https://github.com/get002/Devops_csmbc/assets/96179184/328d43a4-4468-4717-b799-52c2bd5fcab8)
+![66bdac6123c06ad51043a3a49e84267f-40](https://github.com/get002/Devops_csmbc/assets/96179184/46799ef5-e663-4293-9b9f-39a5615b026d)
+![66bdac6123c06ad51043a3a49e84267f-59](https://github.com/get002/Devops_csmbc/assets/96179184/8b5940fa-9d0c-4694-8b57-433e68638fdf)
